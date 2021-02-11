@@ -36,3 +36,24 @@
     transform: rotate(360deg);
   }
 }
+.images {
+  width: 150px;
+  height: 150px;
+}
+.head {
+  text-align: center;
+  font-size: 40px;
+}
+.answers {
+  justify-content: center;
+  text-align: center;
+}
+.drops {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  
+}
+body {
+  background-color: lightcoral;
+}
